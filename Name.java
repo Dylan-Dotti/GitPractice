@@ -51,11 +51,11 @@ public class Name {
     }
 
     public String getSurnameParent2() {
-        /* return parent2's last name */
+        return surnameParent1;
     }
 
     public String getSuffixProfessional() {
-    	return suffixProfessional;
+    	/* return Name's professional suffix */
     }
 
     public String getSuffixGenerational() {
